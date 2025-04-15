@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics   -g -F /Library/Frameworks/ -o CMakeFiles/mandelfork.dir/src/main.cpp.o -c /Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/main.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/main.cpp",
+  "output": "CMakeFiles/mandelfork.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics   -g -F /Library/Frameworks/ -o CMakeFiles/mandelfork.dir/src/fractaldef.cpp.o -c /Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/fractaldef.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/fractaldef.cpp",
+  "output": "CMakeFiles/mandelfork.dir/src/fractaldef.cpp.o"
+},
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics   -g -F /Library/Frameworks/ -o CMakeFiles/mandelfork.dir/src/gfx.cpp.o -c /Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/gfx.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/gfx.cpp",
+  "output": "CMakeFiles/mandelfork.dir/src/gfx.cpp.o"
+},
+{
+  "directory": "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks -isystem /Library/Frameworks/SDL2_image.framework/Headers  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics   -g -F /Library/Frameworks/ -o CMakeFiles/mandelfork.dir/src/fractalexport.cpp.o -c /Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/fractalexport.cpp",
+  "file": "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/fractalexport.cpp",
+  "output": "CMakeFiles/mandelfork.dir/src/fractalexport.cpp.o"
+}
+]

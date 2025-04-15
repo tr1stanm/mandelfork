@@ -1,0 +1,22 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/fractaldef.cpp" "CMakeFiles/mandelfork.dir/src/fractaldef.cpp.o" "gcc" "CMakeFiles/mandelfork.dir/src/fractaldef.cpp.o.d"
+  "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/fractalexport.cpp" "CMakeFiles/mandelfork.dir/src/fractalexport.cpp.o" "gcc" "CMakeFiles/mandelfork.dir/src/fractalexport.cpp.o.d"
+  "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/gfx.cpp" "CMakeFiles/mandelfork.dir/src/gfx.cpp.o" "gcc" "CMakeFiles/mandelfork.dir/src/gfx.cpp.o.d"
+  "/Users/tristan/Desktop/stuff/code/cpp/mandelfork/src/main.cpp" "CMakeFiles/mandelfork.dir/src/main.cpp.o" "gcc" "CMakeFiles/mandelfork.dir/src/main.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
