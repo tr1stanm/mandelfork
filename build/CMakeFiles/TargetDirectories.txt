@@ -1,3 +1,0 @@
-/Users/tristan/Desktop/stuff/code/cpp/mandelfork/build/CMakeFiles/mandelfork.dir
-/Users/tristan/Desktop/stuff/code/cpp/mandelfork/build/CMakeFiles/edit_cache.dir
-/Users/tristan/Desktop/stuff/code/cpp/mandelfork/build/CMakeFiles/rebuild_cache.dir
